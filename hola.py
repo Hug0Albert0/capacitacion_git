@@ -1,1 +1,3 @@
-print("Capacitacion Git Systeg")
+print("Capacitacion Git")
+
+print("Modificando archivo")
